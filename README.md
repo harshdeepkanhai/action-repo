@@ -8,6 +8,3 @@ By Harshdeep Kanhai
 
 Test 5
 Test 87
-Test 5
-Test 87
-Test 78-9
