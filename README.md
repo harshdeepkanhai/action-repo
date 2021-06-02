@@ -6,6 +6,3 @@ Techstax
 By Harshdeep Kanhai
 
 
-Test 5
-Test 87
-TestT 90
